@@ -17,8 +17,8 @@
 		"@whop/sdk": "0.0.3",
 		"multer": "^2.0.2",
 		"next": "16.0.0",
-		"next-auth": "^4.24.13",
-		"node-telegram-bot-api": "^0.66.0",
+		"next-auth": "^4.24.7",
+		"node-telegram-bot-api": "^0.63.0",
 		"prisma": "^5.22.0",
 		"react": "19.2.0",
 		"react-dom": "19.2.0"
